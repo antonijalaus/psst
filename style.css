@@ -12,7 +12,7 @@ body {
   text-align: center;
   margin-bottom: 0px;
   color: #EF8191;
-  font-size: 1.8em;
+  font-size: 1.5em;
   line-height: 1.8;
   font-weight: 700;
   text-transform: uppercase;
@@ -62,7 +62,7 @@ body {
 
 #quote {
   padding: 40px 20px;
-  font-size: 32px;
+  font-size: 34px;
   line-height: 1.5em;
   font-weight: 600;
   display: block;
